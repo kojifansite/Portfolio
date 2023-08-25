@@ -1,8 +1,7 @@
-[yoko-portfolio-chi.vercel.app](https://yoko-portfolio-chi.vercel.app/)
-## Cайт-портфолио на Next.js 13
+## [yoko-portfolio-chi.vercel.app](https://yoko-portfolio-chi.vercel.app/)
+# Сайт-портфолио на Next.js 13. 
 
-📝 Используемый стек технологий:
-
+## 📝 Используемый стек технологий:
 - Next.js 13 
 - Next.js App Router
 - Next.js Server Actions
@@ -15,4 +14,5 @@
 - Современный UI дизайн
 - Светлая и темная тема
 - Адаптивность
+
 
